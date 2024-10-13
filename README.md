@@ -39,3 +39,8 @@ This project offers actionable insights that can improve business strategies, op
 
 
 
+
+![Olist_powerbi_dashboard](https://github.com/user-attachments/assets/5993419f-ecb6-48ac-96fa-e4f900eb7e64)
+
+
+
