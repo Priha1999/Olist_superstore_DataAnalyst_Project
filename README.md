@@ -33,14 +33,25 @@ Insights and Applications:
 
 This project offers actionable insights that can improve business strategies, optimize logistics, enhance customer satisfaction, and refine marketing efforts. By analyzing customer behaviors and performance metrics, Olist can make informed decisions that lead to growth and efficiency improvements.
 
+Excel  Dashboard
+
 
 
 ![Olist_Excel_Dashboard](https://github.com/user-attachments/assets/e71a47f4-96e0-4061-b6e7-0e3307ed6c6e)
 
 
+Power BI Dashboard
+
 
 
 ![Olist_powerbi_dashboard](https://github.com/user-attachments/assets/5993419f-ecb6-48ac-96fa-e4f900eb7e64)
+
+
+Tableau Dashboard
+
+
+
+![Olist_tableau_Dashboard](https://github.com/user-attachments/assets/6ccd4bcc-9520-403a-a7e0-413d27bb3b05)
 
 
 
