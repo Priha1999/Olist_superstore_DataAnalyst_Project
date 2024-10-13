@@ -32,3 +32,10 @@ Filters are implemented to allow users to drill down into the data, view specifi
 Insights and Applications:
 
 This project offers actionable insights that can improve business strategies, optimize logistics, enhance customer satisfaction, and refine marketing efforts. By analyzing customer behaviors and performance metrics, Olist can make informed decisions that lead to growth and efficiency improvements.
+
+
+
+![Olist_Excel_Dashboard](https://github.com/user-attachments/assets/e71a47f4-96e0-4061-b6e7-0e3307ed6c6e)
+
+
+
